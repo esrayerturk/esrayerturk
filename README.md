@@ -5,4 +5,4 @@
 
 ## 🚀 I'm developing a venue recommendation app for Ankara, focusing on analytics and user-friendly design. 
 
-##🛠️ Tools Python, SQL, Power BI, Tableau 🎬 Fun fact: I love movies-like data, they tell great stories!
+## 🛠️ Tools Python, SQL, Power BI, Tableau 🎬 Fun fact: I love movies-like data, they tell great stories!
