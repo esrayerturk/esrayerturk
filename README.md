@@ -1,5 +1,4 @@
-## Hi! 👋
-## I'm Esra
+## Hi! I'm Esra 👋
 
 ## 💻 I'm a data analyst expanding into data science with a focus on machine learning and AI. I love exploring new technologies and uncovering insights from data.
 
